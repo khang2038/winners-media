@@ -4,8 +4,8 @@ import Navigation from '@/components/Navigation'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
-  title: 'Winners Media - Empowering Your Brand To Win',
-  description: 'Professional digital agency specializing in social media management, sports media, content creation, and branding for the US market.',
+  title: 'LOTUS GLOBAL — Where Vision Blooms Into Global Success',
+  description: 'LOTUS GLOBAL — Digital agency specializing in social media, paid media, sports content, and branding. Based in Hanoi, Vietnam.',
   icons: {
     icon: '/logo/z6987337498761_a7b6023218583daf41a0eba65964b593-Photoroom.png',
   },

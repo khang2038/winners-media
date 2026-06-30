@@ -215,27 +215,14 @@ export default function Contact() {
 
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
-                  <div className="text-3xl">📧</div>
-                  <div>
-                    <h3 className="font-semibold text-white mb-1">Email</h3>
-                    <a
-                      href="mailto:hrwinmedia@gmail.com"
-                      className="text-electric-blue hover:text-neon-green transition-colors"
-                    >
-                      hrwinmedia@gmail.com
-                    </a>
-                  </div>
-                </div>
-
-                <div className="flex items-start space-x-4">
                   <div className="text-3xl">📞</div>
                   <div>
                     <h3 className="font-semibold text-white mb-1">Phone</h3>
                     <a
-                      href="tel:0708945100"
+                      href="tel:"
                       className="text-electric-blue hover:text-neon-green transition-colors"
                     >
-                      0708945100
+                      
                     </a>
                   </div>
                 </div>
@@ -245,8 +232,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold text-white mb-1">Address</h3>
                     <p className="text-gray-300">
-                      Tầng 4, Sunrise Building – 25 Đường 2/9<br />
-                      Đà Nẵng
+                      Hà Nội
                     </p>
                   </div>
                 </div>
@@ -256,7 +242,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold text-white mb-1">Business Hours</h3>
                     <p className="text-gray-300">
-                      Monday - Friday: 9:00 AM - 6:00 PM PST<br />
+                      Monday - Friday: 8:30 AM - 5:30 PM (GMT+7)<br />
                       Saturday - Sunday: Closed
                     </p>
                   </div>
@@ -293,7 +279,7 @@ export default function Contact() {
             transition={{ duration: 0.8 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Ready to Start Winning?
+              Ready to Start Growing?
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
               Schedule a free consultation and discover how we can help your

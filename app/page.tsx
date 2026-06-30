@@ -48,10 +48,10 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6"
           >
-            <span className="text-white">Winners Media</span>
+            <span className="text-white">LOTUS GLOBAL</span>
             <br />
             <span className="gradient-text">
-              Empowering Your Brand To Win.
+              Where Vision Blooms Into Global Success.
             </span>
           </motion.h1>
           
@@ -61,7 +61,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl text-gray-300 mb-10 max-w-3xl mx-auto"
           >
-            Where Strategy Meets Creativity. Grow Bigger. Grow Smarter. Grow Winners.
+            Strategic creativity and data-driven marketing for brands ready to grow beyond borders.
           </motion.p>
 
           <motion.div
@@ -114,7 +114,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="text-center mb-16"
           >
-            <h2 className="section-title">Why Choose Winners Media?</h2>
+            <h2 className="section-title">Why Choose LOTUS GLOBAL?</h2>
             <p className="section-subtitle">
               We combine data-driven strategy with creative excellence
             </p>
@@ -134,8 +134,8 @@ export default function Home() {
               },
               {
                 icon: '🚀',
-                title: 'US Market Expertise',
-                description: 'Deep understanding of American consumer behavior and trends',
+                title: 'Global Market Expertise',
+                description: 'Deep understanding of international consumer behavior and cross-border growth strategies',
               },
             ].map((feature, index) => (
               <motion.div
@@ -168,20 +168,20 @@ export default function Home() {
               <h2 className="text-4xl font-bold mb-6">Our Story</h2>
               <p className="text-gray-300 mb-4 text-lg leading-relaxed">
                 Founded with a vision to bridge the gap between creativity and
-                strategy, Winners Media emerged as a powerhouse in digital
+                strategy, LOTUS GLOBAL emerged as a powerhouse in digital
                 marketing. We recognized that brands needed more than just
                 beautiful content—they needed results-driven solutions that
-                resonate with American audiences.
+                resonate with audiences worldwide.
               </p>
               <p className="text-gray-300 mb-4 text-lg leading-relaxed">
                 Our journey began with a simple belief: every brand has the
-                potential to be a winner. Through years of experience working
+                potential to bloom on the global stage. Through years of experience working
                 with diverse clients across industries, we've honed our expertise
                 in social media management, sports media, and creative production.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
                 Today, we stand as a trusted partner for brands looking to make
-                their mark in the US market, combining data-driven insights with
+                their mark globally, combining data-driven insights with
                 creative excellence to deliver campaigns that not only look great
                 but drive real business results.
               </p>
@@ -195,7 +195,7 @@ export default function Home() {
             >
               <Image
                 src="/image/vp1.jpg"
-                alt="Winners Media Office"
+                alt="LOTUS GLOBAL Office"
                 fill
                 className="object-cover"
               />
@@ -219,7 +219,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold mb-4 text-electric-blue">Our Vision</h3>
               <p className="text-gray-300">
                 To become the leading digital agency that empowers brands to
-                achieve extraordinary success in the US market through innovative
+                achieve extraordinary success in global markets through innovative
                 strategies and creative excellence.
               </p>
             </motion.div>
@@ -235,8 +235,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold mb-4 text-electric-blue">Our Mission</h3>
               <p className="text-gray-300">
                 To deliver data-driven, creative solutions that help our clients
-                grow bigger, grow smarter, and become winners in their respective
-                industries.
+                grow bigger, grow smarter, and bloom on the global stage.
               </p>
             </motion.div>
 
@@ -329,7 +328,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Ready to Win?
+              Ready to Bloom?
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
               Let's discuss how we can elevate your brand and drive real results.

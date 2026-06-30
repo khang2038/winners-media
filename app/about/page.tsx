@@ -36,7 +36,7 @@ export default function About() {
             transition={{ duration: 0.8 }}
             className="text-5xl md:text-6xl font-bold mb-6"
           >
-            About <span className="gradient-text">Winners Media</span>
+            About <span className="gradient-text">LOTUS GLOBAL</span>
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 30 }}
@@ -44,8 +44,8 @@ export default function About() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-gray-300 max-w-3xl mx-auto"
           >
-            We are a forward-thinking digital agency dedicated to helping brands
-            achieve extraordinary success in the competitive US market.
+            We are a forward-thinking digital agency based in Hanoi, dedicated to helping brands
+            achieve extraordinary success in global markets.
           </motion.p>
         </div>
       </section>
@@ -63,20 +63,20 @@ export default function About() {
               <h2 className="text-4xl font-bold mb-6">Our Story</h2>
               <p className="text-gray-300 mb-4 text-lg leading-relaxed">
                 Founded with a vision to bridge the gap between creativity and
-                strategy, Winners Media emerged as a powerhouse in digital
+                strategy, LOTUS GLOBAL emerged as a powerhouse in digital
                 marketing. We recognized that brands needed more than just
                 beautiful content—they needed results-driven solutions that
-                resonate with American audiences.
+                resonate with audiences worldwide.
               </p>
               <p className="text-gray-300 mb-4 text-lg leading-relaxed">
                 Our journey began with a simple belief: every brand has the
-                potential to be a winner. Through years of experience working
+                potential to bloom on the global stage. Through years of experience working
                 with diverse clients across industries, we've honed our expertise
                 in social media management, sports media, and creative production.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
                 Today, we stand as a trusted partner for brands looking to make
-                their mark in the US market, combining data-driven insights with
+                their mark globally, combining data-driven insights with
                 creative excellence to deliver campaigns that not only look great
                 but drive real business results.
               </p>
@@ -90,7 +90,7 @@ export default function About() {
             >
               <Image
                 src="/image/vp1.jpg"
-                alt="Winners Media Office"
+                alt="LOTUS GLOBAL Office"
                 fill
                 className="object-cover"
               />
@@ -114,7 +114,7 @@ export default function About() {
               <h3 className="text-2xl font-bold mb-4 text-electric-blue">Our Vision</h3>
               <p className="text-gray-300">
                 To become the leading digital agency that empowers brands to
-                achieve extraordinary success in the US market through innovative
+                achieve extraordinary success in global markets through innovative
                 strategies and creative excellence.
               </p>
             </motion.div>
@@ -130,8 +130,7 @@ export default function About() {
               <h3 className="text-2xl font-bold mb-4 text-electric-blue">Our Mission</h3>
               <p className="text-gray-300">
                 To deliver data-driven, creative solutions that help our clients
-                grow bigger, grow smarter, and become winners in their respective
-                industries.
+                grow bigger, grow smarter, and bloom on the global stage.
               </p>
             </motion.div>
 

@@ -8,11 +8,11 @@ export default function Services() {
     {
       id: 1,
       title: 'Social Media Management',
-      subtitle: 'US Market',
+      subtitle: 'Global Market',
       icon: '📱',
       image: '/services/social-media.jpg',
       description: [
-        'Complete social media strategy and execution for US audiences',
+        'Complete social media strategy and execution for global audiences',
         'Content creation, scheduling, and community management',
         'Analytics and performance optimization across all platforms',
       ],
@@ -75,8 +75,8 @@ export default function Services() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-gray-300 max-w-3xl mx-auto"
           >
-            Comprehensive digital solutions tailored to help your brand win in
-            the competitive US market
+            Comprehensive digital solutions tailored to help your brand bloom in
+            competitive global markets
           </motion.p>
         </div>
       </section>

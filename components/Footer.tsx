@@ -6,9 +6,9 @@ export default function Footer() {
       <div className="container mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4 gradient-text">Winners Media</h3>
+            <h3 className="text-xl font-bold mb-4 gradient-text">LOTUS GLOBAL</h3>
             <p className="text-gray-400 text-sm">
-              Empowering your brand to win in the digital landscape.
+              Where vision blooms into global success.
             </p>
           </div>
           
@@ -51,8 +51,8 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>Email: hrwinmedia@gmail.com</li>
-              <li>Phone: 0708945100</li>
+              <li>Hà Nội</li>
+              <li>Phone: </li>
               <li>
                 <Link href="/contact" className="btn-primary mt-4 inline-block">
                   Get In Touch
@@ -63,7 +63,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} Winners Media. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} LOTUS GLOBAL. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -30,12 +30,12 @@ export default function Navigation() {
             <div className="relative w-12 h-12">
               <Image
                 src="/logo/z6987337498761_a7b6023218583daf41a0eba65964b593-Photoroom.png"
-                alt="Winners Media Logo"
+                alt="LOTUS GLOBAL Logo"
                 fill
                 className="object-contain"
               />
             </div>
-            <span className="text-xl font-bold text-white">Winners Media</span>
+            <span className="text-xl font-bold text-white">LOTUS GLOBAL</span>
           </Link>
 
           {/* Desktop Menu */}
