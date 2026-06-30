@@ -232,7 +232,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold text-white mb-1">Address</h3>
                     <p className="text-gray-300">
-                      Hà Nội
+                      Lô 18 nơ 12 Lê Hiến Tông Hạc Thành Thanh Hóa
                     </p>
                   </div>
                 </div>

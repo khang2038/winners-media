@@ -51,7 +51,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>Hà Nội</li>
+              <li>Lô 18 nơ 12 Lê Hiến Tông Hạc Thành Thanh Hóa</li>
               <li>Phone: </li>
               <li>
                 <Link href="/contact" className="btn-primary mt-4 inline-block">
